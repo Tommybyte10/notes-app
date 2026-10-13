@@ -22,4 +22,4 @@ Classes and objects, ArrayList, Scanner menus, switch, string methods, LocalDate
 - Rebuild it with Spring Boot and a database so people can share notes
 - A website front end
 
-![Screenshot](screenshot.png1)
+![Screenshot](screenshot1.png)
